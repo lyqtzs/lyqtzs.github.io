@@ -3,7 +3,7 @@
   "description": "cxyroad blog",
   "version": "1.0.0",
   "license": "none",
-  "packageManager": "pnpm@9.6.0"
+  "packageManager": "pnpm@9.6.0",
   "type": "module",
   "scripts": {
     "docs:build": "vuepress-vite build src",
